@@ -28,4 +28,4 @@
 </div><br>
 
 
-### Apaixonado por tecnologias,desenvolvimento de software e automações.No momento atuo com QA Tester,mas futuramente pretendo desenvolver software utilizando as tecnologias citadas nos badges acima.
+### Apaixonado por tecnologias,desenvolvimento de software e automações.No momento atuo como QA Tester,mas futuramente pretendo desenvolver software utilizando as tecnologias citadas nos badges acima.
